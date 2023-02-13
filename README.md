@@ -1,6 +1,8 @@
 A collection of automation scripts for use with [Script Kit](https://www.scriptkit.com/).
 
-With Script Kit installed, you can merge the this repo into `/Users/<username>/.kenv/`.
+With Script Kit installed, you can merge the this repo into `/Users/<username>/.kenv/`. 
+
+Ensure that you have `KIT_MODE=ts` in your `.env`.
 
 ## Scripts:
 
